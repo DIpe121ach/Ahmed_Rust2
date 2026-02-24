@@ -1,4 +1,4 @@
-name: Test_Win 11 
+name: A_win11 
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ jobs:
       # --------------------------------------
       aa2: "XCDOOD"
       aa3: "Zxxz4444"
-      LINKS_LIST_URL: "https://tinyurl.com/linksadsadsads2254as"
+      LINKS_LIST_URL: "https://tinyurl.com/asdsadsadas45214"
       KEY_CHOICE: "2"
       PYTHONIOENCODING: "utf-8"
 
